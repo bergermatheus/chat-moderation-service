@@ -13,5 +13,7 @@ Creating a chat moderation service with Google API
 ## Group of Study
 
 - André
+
 - Lucas Ariel
+
 - Matheus
